@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Herry_reactjs/static/css/main.f8dcbe61.chunk.css",
+    "main.js": "/Herry_reactjs/static/js/main.1544b885.chunk.js",
+    "main.js.map": "/Herry_reactjs/static/js/main.1544b885.chunk.js.map",
+    "runtime-main.js": "/Herry_reactjs/static/js/runtime-main.f9bce4f5.js",
+    "runtime-main.js.map": "/Herry_reactjs/static/js/runtime-main.f9bce4f5.js.map",
+    "static/js/2.dcb5c95b.chunk.js": "/Herry_reactjs/static/js/2.dcb5c95b.chunk.js",
+    "static/js/2.dcb5c95b.chunk.js.map": "/Herry_reactjs/static/js/2.dcb5c95b.chunk.js.map",
+    "index.html": "/Herry_reactjs/index.html",
+    "static/css/main.f8dcbe61.chunk.css.map": "/Herry_reactjs/static/css/main.f8dcbe61.chunk.css.map",
+    "static/js/2.dcb5c95b.chunk.js.LICENSE.txt": "/Herry_reactjs/static/js/2.dcb5c95b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9bce4f5.js",
+    "static/js/2.dcb5c95b.chunk.js",
+    "static/css/main.f8dcbe61.chunk.css",
+    "static/js/main.1544b885.chunk.js"
+  ]
+}
