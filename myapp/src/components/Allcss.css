@@ -1,0 +1,79 @@
+.btns button {
+  margin-left: 2%;
+  text-transform: capitalize;
+  text-align: center;
+  border: none;
+  outline: none;
+  outline-style: none;
+  background-color: black;
+  color: white;
+  font-weight: 800;
+  font-style: italic;
+  border-bottom: 2px solid white;
+  border-radius: 100px;
+  box-shadow: -14px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: -14px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -14px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+.btns {
+  margin-top: 3%;
+}
+.heading2{
+    margin-top:6%;
+    text-align: start;
+    margin-left:3%;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 22px;
+    color:gray
+}
+.para{
+    text-align: start;
+    margin-left:3%;
+    margin-top:4%;
+    padding-bottom:5%;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 22px;
+    color:gray;
+}
+.label1{
+    text-align: start;
+   margin-top:2%;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 22px;
+    color:gray;
+}
+#mybox{
+    text-align: start;
+
+     font-family: sans-serif;
+     font-weight: 500;
+     font-size: 22px;
+     color:gray; 
+     box-shadow: -14px 10px 5px 0px rgba(0, 0, 0, 0.75);
+     -webkit-box-shadow: -14px 10px 5px 0px rgba(0, 0, 0, 0.75);
+     -moz-box-shadow: -14px 10px 5px 0px rgba(0, 0, 0, 0.75);
+     outline-style: hidden;
+     border-radius: 30px;
+}
+.heading{
+    text-align: start;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 22px;
+    color:gray   
+}
+.colors{
+    display: flex;
+    margin-left:6px;
+}
+.colors div{
+    margin-left:10px;
+    border:2px solid black;
+    border-radius:100px;
+    width: 30px;
+    text-align: center;
+}
